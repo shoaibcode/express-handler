@@ -10,8 +10,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.18.3",
+    "cloudinary": "^1.11.0",
+    "dotenv": "^6.1.0",
     "express": "^4.16.4",
     "express-handlebars": "^3.0.0",
+    "mongoose": "^5.3.7",
+    "multer": "^1.4.1",
     "nodemon": "^1.18.4"
   }
 }
